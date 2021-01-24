@@ -20,6 +20,7 @@ public class Exercicio1 {
 		Locale.setDefault(Locale.US);
 		System.out.printf("Measue whitch eigth decimal places: %.5f%n",measure);
 		System.out.printf("US decimal point: %.3f",measure);
+		System.out.printf(" %nRecord: %d years old,%d and %s",age,code,gender);
 
 
 		
